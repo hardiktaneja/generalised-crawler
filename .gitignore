@@ -1,0 +1,10 @@
+__pycache__*
+abc
+logs
+*.log
+storage
+custom*
+bin/
+lib/
+.DS_Store
+pyvenv.cfg
